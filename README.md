@@ -1,4 +1,4 @@
-# Albedo–Tb Relationship Model
+# Albedo–Tb Relationship Model (Arctic sea ice)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15307663.svg)](https://doi.org/10.5281/zenodo.15307663)
 **Public dataset:** 
@@ -18,5 +18,5 @@ This repo provides:
 ## Input features 
 Passive microwave brightness temperature (Tb, DMSP SSM/I-SSMIS daily polar gridded brightness temperatures (Version 6)) from 19.3 GHz (H/V polarizations), 22.2 GHz (V polarization), and 37.0 GHz (H/V polarizations), Tb differences between channels, polarization ratios, gradient ratios, SIC, longitude, latitude, solar zenith angle, and temporal encoding of the day-of-year (DOY). 
 
-## Network outputs 
+## Output
 Predicted shortwave BSA for Arctic sea ice.
