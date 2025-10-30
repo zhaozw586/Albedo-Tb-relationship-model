@@ -18,7 +18,7 @@ This repo provides:
 - MATLAB (tested on R2020b)  
 - OS: Windows 10/11
 
-## 3. **Public Dataset** 
+**Public Dataset** 
 Gap-Free Arctic Sea Ice Albedo Dataset (2000–2024; Daily, May–September) 
 ➡ Download & Public datasets generated based on the model on Zenodo: https://doi.org/10.5281/zenodo.15307663
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15307663.svg)](https://doi.org/10.5281/zenodo.15307663)
