@@ -7,7 +7,7 @@
 
 
 This repo provides:
-1) **Trained MATLAB models** (in `model/`, tracked by **Git LFS**)
+1) **Trained MATLAB models** (in `model/`, pre-trained models: overall model (Net.mat) and monthly models (e.g., Maynet.mat, Junnet.mat), tracked by **Git LFS**)
 2) **Training script** (`train_month.m`)
 3) **Inference scripts** (`inference.m`) to estimate albedo from new passive microwave/aux inputs.
 
