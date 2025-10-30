@@ -16,7 +16,7 @@ This repo provides:
 - OS: Windows 10/11
 
 ## Input features 
-Passive microwave brightness temperature (Tb, DMSP SSM/I-SSMIS daily polar gridded brightness temperatures (Version 6)) from 19.3 GHz (H/V polarizations), 22.2 GHz (V polarization), and 37.0 GHz (H/V polarizations), Tb differences between channels, polarization ratios, gradient ratios, SIC, longitude, latitude, solar zenith angle, and temporal encoding of the day-of-year (DOY). 
+Passive microwave brightness temperature (Tb, DMSP SSM/I-SSMIS daily polar gridded brightness temperatures (Version 6)) from 19.3 GHz (H/V polarizations), 22.2 GHz (V polarization), and 37.0 GHz (H/V polarizations), Tb differences between channels, polarization ratios, gradient ratios, sea ice concentration, longitude, latitude, solar zenith angle, and temporal encoding of the day-of-year (DOY). 
 
 ## Output
 Predicted shortwave BSA for Arctic sea ice.
