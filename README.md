@@ -7,11 +7,12 @@ This repo provides:
 
 ## 1. Contents
 .
-├─ model/ # pre-trained models: overall model (Net.mat) and monthly models (e.g., Maynet.mat, Junnet.mat)
-├─ inference.m # run inference on new data
-├─ train_month.m # training per month (Monthly models)
-├─ .gitattributes # LFS tracking for .mat
+├─ model/                 # pre-trained models: overall model (Net.mat) and monthly models (e.g., Maynet.mat, Junnet.mat)
+├─ inference.m            # run inference on new data
+├─ train_month.m          # training per month (Monthly models)
+├─ .gitattributes         # LFS tracking for .mat
 └─ README.md
+
 
 ## 2. Requirements
 - MATLAB (tested on R2020b)  
